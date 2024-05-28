@@ -1,0 +1,47 @@
+.parent{
+    width: 90vh;
+
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 10vh;
+}
+.tutorial{
+    margin-bottom: 50px;
+}
+
+
+#bt{
+    justify-content: end;
+}
+.task-input{
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+
+.text-add{
+    width: 100%;
+}
+
+
+.color{
+    background-color: rgba(180, 217, 180, 0.342);
+    
+}
+
+
+.color{
+   
+  
+}
+
+
+.color-end{
+    background-color: rgb(203, 210, 217);
+}
+
+
